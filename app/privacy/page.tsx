@@ -78,70 +78,78 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-PRIVACY POLICY
-<br>
-<br>
+<h1>PRIVACY POLICY</h1>
 Last Updated: July 31, 2024
-<br>
-gumball
-<br>
-Introduction<
-<br>
-<br>
-This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
+<h1>Introduction</h1>
+
+<p>This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
+</p>
 
 <h2>Data Controller</h2>
-As operator of the Website, the Data Controller is Distractive Inc., a Delaware corporation, with a registered address of 68 Harrison Ave PMB 20921 #605 Boston, MA 02111 (hereinafter referred to as "Controller", "we", or "us").
 
-Data protection is important to us, and we work to ensure that we adhere to the applicable data protection laws and regulations. This includes privacy requirements where applicable to individuals in the European Union and the member states of EFTA under the General Data Protection Regulation (hereinafter "GDPR"), applicable Federal and State Data Privacy Laws in the United States, and/or other applicable laws and regulations.
+<p>As operator of the Website, the Data Controller is Distractive Inc., a Delaware corporation, with a registered address of 68 Harrison Ave PMB 20921 #605 Boston, MA 02111 (hereinafter referred to as "Controller", "we", or "us").
+</p>
 
-This Privacy Policy explains in particular how, for which purposes, and to what extent your Personal Data is collected and processed by us through the Website or any type of Service we provide to you (whenever referring to you, the user of the Website and/or Services, in this Privacy Policy, you will be hereinafter referred to as "User" or "you"). This Privacy Policy also describes how your collected Personal Data can be verified, corrected or deleted. Our Services enable the limited collection of certain Personal Data necessary for the establishment and maintenance of the Services provided through the Website.
+<p>Data protection is important to us, and we work to ensure that we adhere to the applicable data protection laws and regulations. This includes privacy requirements where applicable to individuals in the European Union and the member states of EFTA under the General Data Protection Regulation (hereinafter "GDPR"), applicable Federal and State Data Privacy Laws in the United States, and/or other applicable laws and regulations.
+</p>
 
-As outlined in this Privacy Policy, if you engage with the Website in any manner and/or use any of the Services provided (including any and all blockchain-offerings), we may request and collect certain of your Personal Data directly, or may cause third parties (including, but not limited to, Web3 Foundation) to collect such Personal Data, including, but not limited to the following information: name, e-mail address, social media account information and usage data (e.g. tracking pixels from LinkedIn, Twitter, and YouTube), other usage data related to your use of the Website and Services, and any information captured automatically through cookies (see our Cookie Policy here). Complete details on each type of Personal Data collected are provided in the dedicated sections of this Privacy Policy or by specific explanation displayed to you online prior to the data collection.
+<p>This Privacy Policy explains in particular how, for which purposes, and to what extent your Personal Data is collected and processed by us through the Website or any type of Service we provide to you (whenever referring to you, the user of the Website and/or Services, in this Privacy Policy, you will be hereinafter referred to as "User" or "you"). This Privacy Policy also describes how your collected Personal Data can be verified, corrected or deleted. Our Services enable the limited collection of certain Personal Data necessary for the establishment and maintenance of the Services provided through the Website.
+</p>
 
-The Website contains links to other third party websites. If you follow a link to any of those third party websites, please note that they may have their own privacy policies and that, in any event, we do not accept any responsibility or liability for their policies (or lack thereof) or their processing of any of your Personal Data, or any other information collected by them.
+<p>As outlined in this Privacy Policy, if you engage with the Website in any manner and/or use any of the Services provided (including any and all blockchain-offerings), we may request and collect certain of your Personal Data directly, or may cause third parties (including, but not limited to, Web3 Foundation) to collect such Personal Data, including, but not limited to the following information: name, e-mail address, social media account information and usage data (e.g. tracking pixels from LinkedIn, Twitter, and YouTube), other usage data related to your use of the Website and Services, and any information captured automatically through cookies (see our Cookie Policy here). Complete details on each type of Personal Data collected are provided in the dedicated sections of this Privacy Policy or by specific explanation displayed to you online prior to the data collection.
+</p>
 
-For questions or requests related to the processing of Personal Data by us (such as request for information, deletion, revocation of consent, or objection to processing of any Personal Data), please send correspondence by mail to the address above or by e-mail at privacy@distractive.xyz
+<p>The Website contains links to other third party websites. If you follow a link to any of those third party websites, please note that they may have their own privacy policies and that, in any event, we do not accept any responsibility or liability for their policies (or lack thereof) or their processing of any of your Personal Data, or any other information collected by them.
+</p>
 
-Types of Data Collected
+<p>For questions or requests related to the processing of Personal Data by us (such as request for information, deletion, revocation of consent, or objection to processing of any Personal Data), please send correspondence by mail to the address above or by e-mail at privacy@distractive.xyz
+</p>
 
-Controller respects the privacy of the User and will not collect and process any Personal Data unless they are:
+<h2>Types of Data Collected</h2>
+
+<p>Controller respects the privacy of the User and will not collect and process any Personal Data unless they are:
 provided voluntarily by the User;
 gathered as a result of specific verifications performed by third parties based on the Personal Data provided by the User;
 pixels tracked in connection with social media account use (e.g. LinkedIn, Twitter, and YouTube) for purposes of targeted advertisements; and
 automatically collected by cookies (in accordance with the Cookie Policy) or other tracking technologies.
+</p>
 
-We also collect data through Google Analytics, which may include:
+<p>We also collect data through Google Analytics, which may include:
+</p>
 
-Usage data such as page views, time spent on pages, and navigation paths
+<p>Usage data such as page views, time spent on pages, and navigation paths
 Technical data such as browser type, device type, and operating system
 Geographic data such as country and city (at an aggregate level)
 Interaction data such as clicks, scrolls, and user behavior patterns
 Referral source data
 For further information on additional data collected through any of our blockchain-offerings, please consult Section XI below.
+</p>
 
-Mode of Processing
+<h2>Mode of Processing</h2>
 
-Use of Personal Data. Personal Data transmitted by the User to Controller may be used as follows:
+<p>Use of Personal Data. Personal Data transmitted by the User to Controller may be used as follows:
 to create a user account;
 to respond to your inquiries and your correspondence;
 for marketing analysis purposes, in particular to better understand the interests of Users and improve the Website and the Services, and to provide Users with the relevant information and advertisements relating to the Services;
 to ensure the Website functions correctly, in particular to ensure that content from the Website is presented in the most effective manner for you and for your computer; and
 to maintain and improve the Services offered through the Website.
+</p>
 
-Please consult Section [6] below to get further information on additional use of your Personal Data collected through the Website and/or Services provided through the Website.
+<p>Please consult Section [6] below to get further information on additional use of your Personal Data collected through the Website and/or Services provided through the Website.</p>
 
-Authority to Process Personal Data
+<h2>Authority to Process Personal Data</h2>
 
-The Controller may process Personal Data of Users if any one or more of the following criteria is satisfied:
+<p>The Controller may process Personal Data of Users if any one or more of the following criteria is satisfied:
 Users have given their consent for one or more specific purposes or uses of Personal Data. ***Note***: under some jurisdiction, the applicable law permits the Controller to process Personal Data unless and until the User objects to such processing (an "opt-out"), in which case the Controller is not required to (x) obtain prior consent from the User in order to process Personal Data, or (y) rely on any other of the legal bases for authority set forth in this Section. For clarity, however, this does not apply whenever the processing of Personal Data is subject to GDPR;
 provision of Personal Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
 processing of Personal Data is necessary for the establishment, exercise or defense of any legal claim or proceeding;
 processing of Personal Data is necessary for compliance with any applicable law or regulation to which the Controller is subject;
 Processing of Personal Data is related to a task that is carried out in the public interest or in the exercise of any official authority vested in the Controller;
 processing is necessary for the commercially reasonable purposes and interests pursued by the Controller or by a third party.
+</p>
 
-In any case, if reasonably requested by the User, the Controller will communicate the particular basis under which it has the authority to process Personal Data, as applicable, and in particular whether the provision of Personal Data is a statutory or a contractual requirement, or a requirement necessary to enter into a contract.
+<p>In any case, if reasonably requested by the User, the Controller will communicate the particular basis under which it has the authority to process Personal Data, as applicable, and in particular whether the provision of Personal Data is a statutory or a contractual requirement, or a requirement necessary to enter into a contract.
+</p>
 
 Methods of Processing Personal Data, Access to Personal Data, and Disclosure to Third Parties
 
