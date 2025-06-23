@@ -80,9 +80,12 @@ export default function Home() {
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
 PRIVACY POLICY
 <br>
+<br>
 Last Updated: July 31, 2024
 <br>
+<br>
 Introduction<
+<br>
 <br>
 This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
 
