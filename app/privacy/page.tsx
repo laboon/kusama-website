@@ -78,9 +78,9 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>PRIVACY POLICY</h1>
-Last Updated: July 31, 2024
-<h1>Introduction</h1>
+		<h1>PRIVACY POLICY</h1>
+		Last Updated: July 31, 2024
+		<h1>Introduction</h1>
 
 <p>This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
 </p>
@@ -151,41 +151,52 @@ processing is necessary for the commercially reasonable purposes and interests p
 <p>In any case, if reasonably requested by the User, the Controller will communicate the particular basis under which it has the authority to process Personal Data, as applicable, and in particular whether the provision of Personal Data is a statutory or a contractual requirement, or a requirement necessary to enter into a contract.
 </p>
 
-Methods of Processing Personal Data, Access to Personal Data, and Disclosure to Third Parties
+<h2>Methods of Processing Personal Data, Access to Personal Data, and Disclosure to Third Parties</h2>
 
-The processing of Personal Data as contemplated under this Privacy Policy is carried out using computers and/or other commercially reasonable information-technology enabled tools, following organizational procedures and modes strictly related to the purposes indicated.
+<p>The processing of Personal Data as contemplated under this Privacy Policy is carried out using computers and/or other commercially reasonable information-technology enabled tools, following organizational procedures and modes strictly related to the purposes indicated.
+</p>
 
-Access to Personal Data is limited to those employees, independent contractors, agents, advisors, and/or third parties assigned with processing tasks and who need to access such Personal Data in connection with the operation of the Website and Services. These employees, independent contractors, agents, advisors, and/or third parties are subject to confidentiality obligations and must comply with applicable data protection/privacy laws and regulations.
+<p>Access to Personal Data is limited to those employees, independent contractors, agents, advisors, and/or third parties assigned with processing tasks and who need to access such Personal Data in connection with the operation of the Website and Services. These employees, independent contractors, agents, advisors, and/or third parties are subject to confidentiality obligations and must comply with applicable data protection/privacy laws and regulations.
+</p>
 
-Controller does not knowingly sell, transfer or market your Personal Data to third parties who intend to use such Personal Data for their own purposes. However, we may disclose your Personal Data to third parties as reasonably necessary in connection with the operation of the Website and/or performance of the Services (including, by way of illustrative and non-exhaustive example, for administration, sales, marketing, legal, system administration purposes, or for use by technical service providers, mail carriers, hosting providers, IT companies, communications agencies, auditors, or third parties involved in hosting or organizing events or seminars) and, if necessary, as Data Processors by the Controller. Please see Section 14 of this Privacy Policy for a list of third parties that currently process Personal Data on our behalf in connection with the operation of the Website and/or performance of the Services.
+<p>Controller does not knowingly sell, transfer or market your Personal Data to third parties who intend to use such Personal Data for their own purposes. However, we may disclose your Personal Data to third parties as reasonably necessary in connection with the operation of the Website and/or performance of the Services (including, by way of illustrative and non-exhaustive example, for administration, sales, marketing, legal, system administration purposes, or for use by technical service providers, mail carriers, hosting providers, IT companies, communications agencies, auditors, or third parties involved in hosting or organizing events or seminars) and, if necessary, as Data Processors by the Controller. Please see Section 14 of this Privacy Policy for a list of third parties that currently process Personal Data on our behalf in connection with the operation of the Website and/or performance of the Services.
+</p>
 
-Your Personal Data will not be disclosed by us to third parties for purposes than the ones mentioned in this Privacy Policy.
+<p>Your Personal Data will not be disclosed by us to third parties for purposes than the ones mentioned in this Privacy Policy.
+</p>
 
-Place of Processing and Export of Data
+<h2>Place of Processing and Export of Data</h2>
 
-The data is processed at the Controller’s operating offices in the Commonwealth of Massachusetts, in the United States, and in any other places where the third parties involved in the processing of Personal Data as contemplated hereunder are located. Depending on the User’s location, transfers of Personal Data may involve transferring the User’s Personal Data to a country other than their own.
+<p>The data is processed at the Controller’s operating offices in the Commonwealth of Massachusetts, in the United States, and in any other places where the third parties involved in the processing of Personal Data as contemplated hereunder are located. Depending on the User’s location, transfers of Personal Data may involve transferring the User’s Personal Data to a country other than their own.
+</p>
 
-We reserve the right to transfer, store, use and process your Personal Data, and any other personal information as contemplated in this Privacy Policy, to/by recipients in countries outside of the United States, including those within the European Economic Area ("EEA"), as well as other countries throughout the world. You should note that data privacy, data protection, and data disclosure laws vary from jurisdiction to jurisdiction throughout the world and, therefore, laws and regulations applicable to the places where your information is transferred to or stored, used or processed in, may not provide you with the same level of protection as the laws or regulations specific to the jurisdiction of your place of residency. We endeavor to put in place the legally required safeguards and contractual measures to ensure that recipients of your Personal Data in other jurisdictions undertake to comply with the level of data protection and security prescribed by your applicable local data protection laws and regulations.
+<p>We reserve the right to transfer, store, use and process your Personal Data, and any other personal information as contemplated in this Privacy Policy, to/by recipients in countries outside of the United States, including those within the European Economic Area ("EEA"), as well as other countries throughout the world. You should note that data privacy, data protection, and data disclosure laws vary from jurisdiction to jurisdiction throughout the world and, therefore, laws and regulations applicable to the places where your information is transferred to or stored, used or processed in, may not provide you with the same level of protection as the laws or regulations specific to the jurisdiction of your place of residency. We endeavor to put in place the legally required safeguards and contractual measures to ensure that recipients of your Personal Data in other jurisdictions undertake to comply with the level of data protection and security prescribed by your applicable local data protection laws and regulations.
+</p>
 
-Retention of Personal Data
+<h2>Retention of Personal Data</h2>
 
-The Controller will retain Personal Data for as long as necessary to deliver the Services described in this Privacy Policy; provided, however, that, upon termination, as long as required by applicable law or regulations (by way of illustrative example, some jurisdictions may have mandatory data retention periods), whichever is longer. Therefore,
+<p>The Controller will retain Personal Data for as long as necessary to deliver the Services described in this Privacy Policy; provided, however, that, upon termination, as long as required by applicable law or regulations (by way of illustrative example, some jurisdictions may have mandatory data retention periods), whichever is longer. Therefore,
 Personal Data collected for purposes related to the performance of a contract between the Controller and the User shall be retained until such contract has been fully performed; and
 Personal Data collected for the purposes of the Controller’s legitimate interests (including the commercially reasonable operation of the Website and performance of the Services) shall be retained as long as needed to fulfill such purposes.
+</p>
 
-Please note that we may be permitted to retain your Personal Data for a longer period of time than set forth immediately above if you have given consent to the processing of Personal Data, provided that you have not expressly withdrawn your consent.
+<p>Please note that we may be permitted to retain your Personal Data for a longer period of time than set forth immediately above if you have given consent to the processing of Personal Data, provided that you have not expressly withdrawn your consent.
+</p>
 
-Once any such retention period expires, Personal Data will be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+<p>Once any such retention period expires, Personal Data will be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+</p>
 
-Security measures
+<h2>Security measures</h2>
 
-We take commercially reasonable technical, backup and organizational precautions and security measures to prevent accidental or intentional manipulation, unauthorized access, disclosure, unauthorized destruction, partial or complete loss, misuse or alteration of your Personal Data. Accordingly, we store all Personal Data you provide on secure (password and firewall protected) servers. However, no method of processing, transmission or electronic storage of Personal Data is 100% secure or guaranteed. Therefore, while we strive to protect your information, we cannot guarantee its absolute security.
+<p>We take commercially reasonable technical, backup and organizational precautions and security measures to prevent accidental or intentional manipulation, unauthorized access, disclosure, unauthorized destruction, partial or complete loss, misuse or alteration of your Personal Data. Accordingly, we store all Personal Data you provide on secure (password and firewall protected) servers. However, no method of processing, transmission or electronic storage of Personal Data is 100% secure or guaranteed. Therefore, while we strive to protect your information, we cannot guarantee its absolute security.
+</p>
 
-We strongly encourage you to retain copies of all uploaded information (including your Personal Data) on your own systems.
+<p>We strongly encourage you to retain copies of all uploaded information (including your Personal Data) on your own systems.
+</p>
 
-Yours Rights as a User
+<h2>Yours Rights as a User</h2>
 
-You may exercise certain rights regarding your Personal Data processed by the Controller. Your rights depend on the applicable law and regulations of the particular jurisdiction within which you are a resident. In particular, if you are a resident of countries within the EEA or Switzerland, you have the right to do the following (note that residents of countries that are not within the EEA or Switzerland may not be entitled to some or all of the following rights):
+<p>You may exercise certain rights regarding your Personal Data processed by the Controller. Your rights depend on the applicable law and regulations of the particular jurisdiction within which you are a resident. In particular, if you are a resident of countries within the EEA or Switzerland, you have the right to do the following (note that residents of countries that are not within the EEA or Switzerland may not be entitled to some or all of the following rights):
 Withdraw your consent to the processing of your Personal Data at any time. For clarity, users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data. ***Note*** - even after you have chosen to withdraw your consent, we may be permitted to continue to process your Personal Data to the extent required or permitted by applicable law, and if we are in fact so permitted, we reserve the right to do so.
 Object to our processing of your Personal Data. Users have the right to object to the processing of their Personal Data if the processing is carried out on a legal basis other than consent (e.g. for a public interest, in the exercise of an official authority vested in the Controller or for the purpose of commercially reasonable and legitimate interests pursued by the Controller). Users may object to such processing of their Personal Data by sending a written notice to Controller (to the address or email address listed in this Privacy Policy), including details regarding the particular circumstances causing their objection to our use of their Personal Data, and rationale related thereto. Please note, however, should your Personal Data be processed for direct marketing purposes, you can object in writing to our processing of your Personal Data for those particular purposes at any time without providing any rationale or further detail.
 Access your Personal Data. Users have the right to know if the Controller is processing their Personal Data, obtain disclosure regarding certain aspects of any such processing of their Personal Data, and obtain a copy of any such Personal Data undergoing processing by us.
@@ -196,38 +207,47 @@ Have their Personal Data deleted or otherwise removed.
 Users have the right, under certain circumstances, to cause the Controller to remove their Personal Data from Controller’s possession; provided, however, the Controller will not be required to remove any such Personal Data if the processing of that Personal Data is justified by our commercially reasonable and legitimate interests, necessary to fulfill a legal obligation, for reasons of public interest, or to assert, exercise or defend any legal claim. In any event, we will take reasonable steps to inform other controllers that are processing your Personal Data that you have requested the removal of any links to, copies or replication of any such Personal Data.
 Receive their Personal Data and have it transferred to another controller. Users have the right to receive their Personal Data in a structured, commonly used and machine readable format from the Controller and, if technically feasible and reasonably practicable, to have it transmitted to another controller. This provision is applicable provided that the Personal Data is processed by automated means and that the processing is based on the User’s consent, on a contract to which the User is a party, or on pre-contractual obligations thereof.
 Lodge a complaint. Users have the right to bring a claim before any applicable data protection authority as permitted under applicable law or regulation (the particular authority will depend on your country, state, and/or city (as applicable) of residence and the applicable data protection laws therein.
+</p>
 
-***NOTE***: Any requests to exercise User rights can be directed to the Controller through the Controller’s contact details provided in this Privacy Policy. Note that Controller is permitted to forward any such request to a third party (including, but not limited to, Web3 Foundation), in the event such third party manages any such Personal Data (as contemplated in this Privacy Policy).
+<p>***NOTE***: Any requests to exercise User rights can be directed to the Controller through the Controller’s contact details provided in this Privacy Policy. Note that Controller is permitted to forward any such request to a third party (including, but not limited to, Web3 Foundation), in the event such third party manages any such Personal Data (as contemplated in this Privacy Policy).
+</p>
 
-Controller will use reasonable best efforts to fulfill any such request by User to exercise the rights sets forth above within the timeframe required by applicable law (if applicable), unless a delay or a retention of the relevant Personal Data is permitted by applicable law, is required for another valid purpose, or is covered by a valid limitation or exemption under applicable privacy or data protection law or regulation.
+<p>Controller will use reasonable best efforts to fulfill any such request by User to exercise the rights sets forth above within the timeframe required by applicable law (if applicable), unless a delay or a retention of the relevant Personal Data is permitted by applicable law, is required for another valid purpose, or is covered by a valid limitation or exemption under applicable privacy or data protection law or regulation.
+</p>
 
-Any such request by a User will be free of charge, provided that we do not incur unreasonable or unexpected costs for providing you with details of your Personal Data.
+<p>Any such request by a User will be free of charge, provided that we do not incur unreasonable or unexpected costs for providing you with details of your Personal Data.
+</p>
 
-Cookies
+<h2>Cookies</h2>
 
-When the User visits the Website, information can be automatically stored on the User's computer or other device. This is done in the form of so-called "cookies" or a similar file, which help Controller in various ways, for example, to get to know the preferences of visitors and Users of the Website and to improve the Website and Services. Both permanent cookies and functional, temporary session cookies may be used: permanent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser. For further detail on the use of “cookies” in connection with your use of the Website and/or Services, please review our Cookie Policy in its entirety here. And for more information about “cookies” generally, please visit: https://allaboutcookies.org/.
+<p>When the User visits the Website, information can be automatically stored on the User's computer or other device. This is done in the form of so-called "cookies" or a similar file, which help Controller in various ways, for example, to get to know the preferences of visitors and Users of the Website and to improve the Website and Services. Both permanent cookies and functional, temporary session cookies may be used: permanent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser. For further detail on the use of “cookies” in connection with your use of the Website and/or Services, please review our Cookie Policy in its entirety here. And for more information about “cookies” generally, please visit: https://allaboutcookies.org/.
+</p>
 
-Children’s Privacy
+<h2>Children’s Privacy</h2>
 
-We do not knowingly collect any Personal Data from children under thirteen (13) years of age without parental consent. If we learn that a child under the age of thirteen (13) has provided us with Personal Data, or that such Personal Data has otherwise been inadvertently collected, we will delete it in accordance with applicable law.
+<p>We do not knowingly collect any Personal Data from children under thirteen (13) years of age without parental consent. If we learn that a child under the age of thirteen (13) has provided us with Personal Data, or that such Personal Data has otherwise been inadvertently collected, we will delete it in accordance with applicable law.</p>
 
-Changes to This Privacy Policy
+<h2>Changes to This Privacy Policy</h2>
 
-As previously noted in this Privacy Policy, we reserve the right to make changes to this Privacy Policy at any time by updating this page. If and to the extent commercially reasonable, technically practicable, and required by applicable law, we will endeavor to provide notice of any such updates to this Privacy Policy to Users via any contact information provided by the User to Controller. In any event, we strongly encourage you to review the Website and this Privacy Policy periodically for updates.
+<p>As previously noted in this Privacy Policy, we reserve the right to make changes to this Privacy Policy at any time by updating this page. If and to the extent commercially reasonable, technically practicable, and required by applicable law, we will endeavor to provide notice of any such updates to this Privacy Policy to Users via any contact information provided by the User to Controller. In any event, we strongly encourage you to review the Website and this Privacy Policy periodically for updates.</p>
 
-Note that, should any such changes by the Controller to this Privacy Policy materially impact the processing of Personal Data undertaken on the basis of a User’s consent, Controller will obtain consent from such User if required by applicable law.
+<p>Note that, should any such changes by the Controller to this Privacy Policy materially impact the processing of Personal Data undertaken on the basis of a User’s consent, Controller will obtain consent from such User if required by applicable law.</p>
 
-Access to the Privacy Policy
-The User can access, download, save or print this Privacy Policy in its current/updated version at any time under the following address polkadot.com/privacy
+<h2>Access to the Privacy Policy</h2>
 
-Current Third Party Processors
-The following third party processors are currently assigned with processing activities on our behalf:
-Plausible - An open source web analytics company. Plausible’s privacy policy can be found here.
-Hubspot - Contact relationship management (CRM), marketing, sales, and customer service software. HubSpot is currently managed and controlled by the Web3 Foundation. HubSpot’s privacy policy can be found here.
-Hotjar - A digital experience insights platform that provides visual behaviour insights, in-the-moment feedback, and 1:1 interviews, all in one place. Hotjar’s privacy policy can be found here.
-Google Analytics - A web analytics service provided by Google LLC ("Google") that tracks and reports website traffic. Google's privacy policy can be found at https://policies.google.com/privacy. Google Analytics uses cookies and similar technologies to collect and analyze information about the use of our website. This information is used to evaluate visitors' use of the website and to compile statistical reports on website activity.
+<p>The User can access, download, save or print this Privacy Policy in its current/updated version at any time under the following address polkadot.com/privacy</p>
 
-***NOTE*** - the updated list of these parties may be requested from the Controller at any time.
+<h2>Current Third Party Processors</h2>
+
+<p>The following third party processors are currently assigned with processing activities on our behalf:</p>
+<ul>
+<li>Plausible - An open source web analytics company. Plausible’s privacy policy can be found here.</li>
+<li>Hubspot - Contact relationship management (CRM), marketing, sales, and customer service software. HubSpot is currently managed and controlled by the Web3 Foundation. HubSpot’s privacy policy can be found here.</li>
+<li>Hotjar - A digital experience insights platform that provides visual behaviour insights, in-the-moment feedback, and 1:1 interviews, all in one place. Hotjar’s privacy policy can be found here.</li>
+<li>Google Analytics - A web analytics service provided by Google LLC ("Google") that tracks and reports website traffic. Google's privacy policy can be found at https://policies.google.com/privacy. Google Analytics uses cookies and similar technologies to collect and analyze information about the use of our website. This information is used to evaluate visitors' use of the website and to compile statistical reports on website activity.</li>
+
+
+<p>***NOTE*** - the updated list of these parties may be requested from the Controller at any time.</p>
 		</p>
                 <div className="flex space-x-4">
                 </div>
