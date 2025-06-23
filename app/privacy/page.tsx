@@ -248,7 +248,6 @@ Lodge a complaint. Users have the right to bring a claim before any applicable d
 
 
 <p>***NOTE*** - the updated list of these parties may be requested from the Controller at any time.</p>
-		</p>
                 <div className="flex space-x-4">
                 </div>
               </div>
