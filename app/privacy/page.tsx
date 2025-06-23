@@ -78,15 +78,15 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>PRIVACY POLICY</h1>
-
+PRIVACY POLICY
+<br>
 Last Updated: July 31, 2024
-
-<h2>Introduction</h2>
-
+<br>
+Introduction<
+<br>
 This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
 
-Data Controller
+<h2>Data Controller</h2>
 As operator of the Website, the Data Controller is Distractive Inc., a Delaware corporation, with a registered address of 68 Harrison Ave PMB 20921 #605 Boston, MA 02111 (hereinafter referred to as "Controller", "we", or "us").
 
 Data protection is important to us, and we work to ensure that we adhere to the applicable data protection laws and regulations. This includes privacy requirements where applicable to individuals in the European Union and the member states of EFTA under the General Data Protection Regulation (hereinafter "GDPR"), applicable Federal and State Data Privacy Laws in the United States, and/or other applicable laws and regulations.
