@@ -78,156 +78,325 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>Billy boy</h1>
-Last Updated: July 31, 2024
-<h1>Introduction</h1>
+<h1>Privacy Policy</h1>
+Last Updated: November 25, 2024
 
-<p>This privacy policy (“Privacy Policy”) details how we (as defined below) handle user information that is gathered, submitted, or maintained by us as a result of visits to the Polkadot website available under https://polkadot.com (the “Website”). It also describes our disclosure policies and provides links to our cookie policy. This Privacy Policy applies to any and all services and products available through the Website, including all blockchain-related services, including, but not limited to, the Polkadot Network, the Kusama Network, and the Thousand Validators program (collectively and individually referred to as the "Services"). If you do not agree with the practices described in this Privacy Policy, you should not access the Website or use the Services. We encourage you to review this Privacy Policy periodically, as we reserve the right to update it from time to time (any such updates will be reflected in this Privacy Policy and accessible through the Website). Your access of the Website and use of the Services constitutes consent to the terms and conditions contained in this Privacy Policy.
-</p>
 
-<h2>Data Controller</h2>
+Welcome
+With this privacy policy (“Privacy Policy”), Web 3.0 Technologies Foundation (“the Foundation” or “we”) informs you how we collect, use, disclose and otherwise process Personal Data (as defined under Section 3.1) in accordance with the Swiss Federal Act on Data Protection (FADP), the European General Data Protection Regulations (GDPR) and other applicable data protection legislation (“Data Protection Laws”), as applicable, when you use our website http://web3.foundation (“Website”) communicate with us, subscribe to our newsletter, interact with other ecosystem-related initiatives or projects launched in relation to the Polkadot Network and/or Kusama Network (hereinafter jointly and individually referred to as the “Ecosystem Initiatives”), or any of the other situations set out in Section 3 below.
 
-<p>As operator of the Website, the Data Controller is Distractive Inc., a Delaware corporation, with a registered address of 68 Harrison Ave PMB 20921 #605 Boston, MA 02111 (hereinafter referred to as "Controller", "we", or "us").
-</p>
+Our Website may contain links to third-party websites. If you follow a link to any third-party websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for their policies or their processing of your data.
 
-<p>Data protection is important to us, and we work to ensure that we adhere to the applicable data protection laws and regulations. This includes privacy requirements where applicable to individuals in the European Union and the member states of EFTA under the General Data Protection Regulation (hereinafter "GDPR"), applicable Federal and State Data Privacy Laws in the United States, and/or other applicable laws and regulations.
-</p>
+1. Data Controller and Data Processor
+If you visit our Website or interact with the Ecosystem Initiatives, we act as the “Data Controller” of your Personal Data. As the Data Controller, we determine the purposes for which and the means by which your Personal Data is processed.
 
-<p>This Privacy Policy explains in particular how, for which purposes, and to what extent your Personal Data is collected and processed by us through the Website or any type of Service we provide to you (whenever referring to you, the user of the Website and/or Services, in this Privacy Policy, you will be hereinafter referred to as "User" or "you"). This Privacy Policy also describes how your collected Personal Data can be verified, corrected or deleted. Our Services enable the limited collection of certain Personal Data necessary for the establishment and maintenance of the Services provided through the Website.
-</p>
+You can notify us of any data protection-related concerns using the following contact details:
 
-<p>As outlined in this Privacy Policy, if you engage with the Website in any manner and/or use any of the Services provided (including any and all blockchain-offerings), we may request and collect certain of your Personal Data directly, or may cause third parties (including, but not limited to, Web3 Foundation) to collect such Personal Data, including, but not limited to the following information: name, e-mail address, social media account information and usage data (e.g. tracking pixels from LinkedIn, Twitter, and YouTube), other usage data related to your use of the Website and Services, and any information captured automatically through cookies (see our Cookie Policy here). Complete details on each type of Personal Data collected are provided in the dedicated sections of this Privacy Policy or by specific explanation displayed to you online prior to the data collection.
-</p>
+Web 3.0 Technologies Foundation
+Gotthardstrasse 3
+6300 Zug
+Switzerland
 
-<p>The Website contains links to other third party websites. If you follow a link to any of those third party websites, please note that they may have their own privacy policies and that, in any event, we do not accept any responsibility or liability for their policies (or lack thereof) or their processing of any of your Personal Data, or any other information collected by them.
-</p>
+E-Mail: legal@web3.foundation
 
-<p>For questions or requests related to the processing of Personal Data by us (such as request for information, deletion, revocation of consent, or objection to processing of any Personal Data), please send correspondence by mail to the address above or by e-mail at privacy@distractive.xyz
-</p>
+2. Your responsibilities
+It is your responsibility to read this Privacy Policy.
 
-<h2>Types of Data Collected</h2>
+If you share Personal Data regarding any person other than yourself, we assume that the data is correct. By sharing such data with us, you confirm that you are authorized to do so and that you have informed the affected individuals about this Privacy Policy and our processing of their Personal Data.
 
-<p>Controller respects the privacy of the User and will not collect and process any Personal Data unless they are:
-provided voluntarily by the User;
-gathered as a result of specific verifications performed by third parties based on the Personal Data provided by the User;
-pixels tracked in connection with social media account use (e.g. LinkedIn, Twitter, and YouTube) for purposes of targeted advertisements; and
-automatically collected by cookies (in accordance with the Cookie Policy) or other tracking technologies.
-</p>
+Please note that the internet is generally not a secure environment, because it is an open network that can be accessed by anyone. Therefore, we appeal to your personal responsibility with regard to the handling of your Personal Data. To the extent permitted by law, we exclude liability for the security of data that you transmit to us via the internet (e.g. by e-mail) or other electronic channels and for any direct or indirect damage.
 
-<p>We also collect data through Google Analytics, which may include:
-</p>
+3. Collection and processing of Personal Data
+3.1 Personal Data
+“Personal Data” means all data relating to identified or identifiable individuals, which means that the relevant data, in combination with additional data, make it possible to draw conclusions about the identity of these individuals.
 
-<p>Usage data such as page views, time spent on pages, and navigation paths
-Technical data such as browser type, device type, and operating system
-Geographic data such as country and city (at an aggregate level)
-Interaction data such as clicks, scrolls, and user behavior patterns
-Referral source data
-For further information on additional data collected through any of our blockchain-offerings, please consult Section XI below.
-</p>
+3.2 Principles of Personal Data processing
+We adhere to the principles to the protection of the Personal Data as envisaged in the Data Protection Laws. In accordance with these principles, Personal Data shall:
 
-<h2>Mode of Processing</h2>
+be processed fairly, lawfully and transparently;
+be processed for specified, explicit and legitimate purposes only and not further processed in a manner that is incompatible with those purposes;
+be adequate, relevant and limited to what is necessary in relation to the purposes for which they are processed;
+be kept accurate and up to date;
+not be retained longer than necessary;
+be processed in a manner that ensures their appropriate security;
+not be transferred outside the European Economic Area (EEA) or the EU without adequate protection.
+3.3 Sources
+We collect and process Personal Data that we:
 
-<p>Use of Personal Data. Personal Data transmitted by the User to Controller may be used as follows:
-to create a user account;
-to respond to your inquiries and your correspondence;
-for marketing analysis purposes, in particular to better understand the interests of Users and improve the Website and the Services, and to provide Users with the relevant information and advertisements relating to the Services;
-to ensure the Website functions correctly, in particular to ensure that content from the Website is presented in the most effective manner for you and for your computer; and
-to maintain and improve the Services offered through the Website.
-</p>
+receive from you when you visit our Website or interact with the Ecosystem Initiatives;
+receive from you when you apply for an open position at the Foundation;
+receive from our business partners;
+receive when participating in events or courses;
+receive from authorities, courts or other third parties;
+obtain from publicly accessible sources, as far as this is permitted to us.
+3.4 Categories of Personal Data
+To the extent applicable, the categories of Personal Data that we collect and process may include in particular the following data:
 
-<p>Please consult Section [6] below to get further information on additional use of your Personal Data collected through the Website and/or Services provided through the Website.</p>
+Personal information and contact details, such as name, address, telephone number, e-mail address, date of birth, nationality, gender, pictures, professional functions and activities, education, qualifications, affiliations with third parties.
+Information relating to agreements, such as contracts and contractual obligations, project details, scope of work, claims, communication relating to mandates and other agreements.
+Information contained in communication and other interactions with us, such as correspondence by letter or e-mail or through other means of communication with you or with third parties, meetings, call history, notes relating to communication, access logs, inquiries, social media activities.
+Financial information, such as invoicing information, payment details, bank details, information relating to insurance, financial situation, accounting information, creditworthiness, debt enforcement and bankruptcy information.
+Information relating to administrative, court or other proceedings, such as information on claims and defenses, persons involved and the matter at issue, criminal prosecution and conviction.
+Information to perform KYC/KYB procedure, such as name, date of birth, nationality, country of residence, contact details, identification number, VAT number (if the company is registered in Switzerland), employment details and corporate documents.
+Data related to marketing activities, such as preferences and interests, newsletter opt-ins and opt-outs, responses to marketing activities, invitations and participation in events and activities.
+Data related to the use of our Website, such as connection data, IP address and other identifiers, date and time of the visit to our Website, duration of the visit to the website, requested internet address (URL), referrer URL (i.e. the internet address of the website from which you accessed our Website), browser type and version, operating system used, amount of data sent in bytes, and the search term used, location data, pages and content accessed, functions used.
+Data obtained from public registers and other public sources, such as the debt enforcement register, credit rating directories, land register, commercial register, media and internet.
+3.5 Sensitive data
+We do not collect any sensitive data about you (such as racial or ethnic origin, political opinions, religious belief, trade union membership, genetic data, biometric data, health data, data about your sexual life or orientation, and offenses or alleged offenses) except if we have your specific consent, or when we must comply with the law.
+Our services are directed to and intended for use only by those who are 18 years of age or over. We do not knowingly collect any Personal Data from any person under 18 years of age.
+4. Processed data, purpose and legal basis
+We only process your Personal Data for specific reasons and where we have a legal basis to do so.
 
-<h2>Authority to Process Personal Data</h2>
+4.1 Use of our Website
+Processed data
+The following data is collected automatically when you visit our Website: the country from where you accessed the Website, the type of device you used, the browser you used and the address of the website from which you were redirected to our Website.
 
-<p>The Controller may process Personal Data of Users if any one or more of the following criteria is satisfied:
-Users have given their consent for one or more specific purposes or uses of Personal Data. ***Note***: under some jurisdiction, the applicable law permits the Controller to process Personal Data unless and until the User objects to such processing (an "opt-out"), in which case the Controller is not required to (x) obtain prior consent from the User in order to process Personal Data, or (y) rely on any other of the legal bases for authority set forth in this Section. For clarity, however, this does not apply whenever the processing of Personal Data is subject to GDPR;
-provision of Personal Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
-processing of Personal Data is necessary for the establishment, exercise or defense of any legal claim or proceeding;
-processing of Personal Data is necessary for compliance with any applicable law or regulation to which the Controller is subject;
-Processing of Personal Data is related to a task that is carried out in the public interest or in the exercise of any official authority vested in the Controller;
-processing is necessary for the commercially reasonable purposes and interests pursued by the Controller or by a third party.
-</p>
+Purpose
+We process your Personal Data in order to operate and secure our Website, in particular for security reasons to ensure the stability and integrity of our system, and to ensure a smooth connection of the Website. In addition, we use Simple Analytics to perform basic web analysis to optimize the Website regarding usability and to gain insights about the use of our Website.
 
-<p>In any case, if reasonably requested by the User, the Controller will communicate the particular basis under which it has the authority to process Personal Data, as applicable, and in particular whether the provision of Personal Data is a statutory or a contractual requirement, or a requirement necessary to enter into a contract.
-</p>
+Legal basis
+The processing of your Personal Data is based on our legitimate interests (Art. 6 para. 1 lit. f GDPR).
 
-Methods of Processing Personal Data, Access to Personal Data, and Disclosure to Third Parties
+4.2 Communication
+Processed data
+If you send us an e-mail or another form of electronic message (or a hardcopy message, e.g. a letter), we may collect such information as your name, e-mail address (or other form of communication identifier, e.g. username or messenger nickname), phone number, subject matter, message content, related metadata and any other information you choose to disclose in your communication to us.
 
-The processing of Personal Data as contemplated under this Privacy Policy is carried out using computers and/or other commercially reasonable information-technology enabled tools, following organizational procedures and modes strictly related to the purposes indicated.
+Purpose
+We process your Personal Data in order to process your inquiry and any possible further questions you might have in relation to your interactions with the Ecosystem Initiatives ; and any other related questions and matters based on the content of your communication with us. We may keep this data to document our communication with you, for training purposes, for quality assurance, for follow-up inquiries and for regulatory purposes.
 
-Access to Personal Data is limited to those employees, independent contractors, agents, advisors, and/or third parties assigned with processing tasks and who need to access such Personal Data in connection with the operation of the Website and Services. These employees, independent contractors, agents, advisors, and/or third parties are subject to confidentiality obligations and must comply with applicable data protection/privacy laws and regulations.
+Legal basis
+Depending on the situation, the processing of your Personal Data is based on your consent (Art. 6 para. 1 lit. a GDPR), necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), necessary for compliance with legal obligations (Art. 6 para. 1 lit. c GDPR) and/or based on our legitimate interests (Art. 6 para. 1 lit. f GDPR). You will be informed about the specific legal basis for the processing of your data before sharing it with us.
 
-Controller does not knowingly sell, transfer or market your Personal Data to third parties who intend to use such Personal Data for their own purposes. However, we may disclose your Personal Data to third parties as reasonably necessary in connection with the operation of the Website and/or performance of the Services (including, by way of illustrative and non-exhaustive example, for administration, sales, marketing, legal, system administration purposes, or for use by technical service providers, mail carriers, hosting providers, IT companies, communications agencies, auditors, or third parties involved in hosting or organizing events or seminars) and, if necessary, as Data Processors by the Controller. Please see Section 14 of this Privacy Policy for a list of third parties that currently process Personal Data on our behalf in connection with the operation of the Website and/or performance of the Services.
+4.3 Recruitment
+Processed data
+If you apply for a job vacancy at the Foundation, we may collect such information as your name, contact details, photo, information about your work permit situation, your education, your professional experience and other information you choose to provide to us in connection with your application.
 
-Your Personal Data will not be disclosed by us to third parties for purposes than the ones mentioned in this Privacy Policy.
+Purpose
+We process your Personal Data for the assessment of your application and potential negotiation, preparation, conclusion and performance of an employment contract with you.
 
-Place of Processing and Export of Data
+Legal basis
+The processing of your Personal Data is necessary for the performance of a possible employment contract (Art. 6 para. 1 lit. b GDPR). In case no employment contract is concluded, we may retain your application for further job vacancies, if you have provided us with your consent to do so (Art. 6 para. 1 lit. a GDPR).
 
-The data is processed at the Controller’s operating offices in the Commonwealth of Massachusetts, in the United States, and in any other places where the third parties involved in the processing of Personal Data as contemplated hereunder are located. Depending on the User’s location, transfers of Personal Data may involve transferring the User’s Personal Data to a country other than their own.
+4.4 Ecosystem Initiatives (Polkadot Network and Kusama Network)
+Processed data
+In connection with any of the Ecosystem Initiatives organized by us, we may collect information that we require in order to be able to facilitate your participation or use of the Ecosystem Initiatives, such as name, date of birth, nationality, identity document details, title, profession, role and function, e-mail address, phone number, social media handles, VAT number (if the company is registered in Switzerland) and blockchain account number. Furthermore, when dealing with us, we may process e-mails, text messages, letters and other communications information relating to your interactions with the Ecosystem Initiatives and any further information contained in case files or related otherwise to the Ecosystem Initiatives.
 
-We reserve the right to transfer, store, use and process your Personal Data, and any other personal information as contemplated in this Privacy Policy, to/by recipients in countries outside of the United States, including those within the European Economic Area ("EEA"), as well as other countries throughout the world. You should note that data privacy, data protection, and data disclosure laws vary from jurisdiction to jurisdiction throughout the world and, therefore, laws and regulations applicable to the places where your information is transferred to or stored, used or processed in, may not provide you with the same level of protection as the laws or regulations specific to the jurisdiction of your place of residency. We endeavor to put in place the legally required safeguards and contractual measures to ensure that recipients of your Personal Data in other jurisdictions undertake to comply with the level of data protection and security prescribed by your applicable local data protection laws and regulations.
+Purpose
+We process your Personal Data in order to facilitate your use or participation in the Ecosystem Initiatives and to comply with applicable legal requirements and internal regulations. We may also process your Personal Data to document your use of the Ecosystem Initiatives, for training purposes or for quality assurance as well as for market research to improve the Ecosystem Initiatives and operations and for product and service development.
 
-Retention of Personal Data
+Legal basis
+Depending on the situation, the processing of your Personal Data is necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), necessary for compliance with a legal obligation (Art. 6 para. 1 lit. c GDPR) and/or based on our legitimate interest (Art. 6 para. 1 lit. f GDPR).
 
-The Controller will retain Personal Data for as long as necessary to deliver the Services described in this Privacy Policy; provided, however, that, upon termination, as long as required by applicable law or regulations (by way of illustrative example, some jurisdictions may have mandatory data retention periods), whichever is longer. Therefore,
-Personal Data collected for purposes related to the performance of a contract between the Controller and the User shall be retained until such contract has been fully performed; and
-Personal Data collected for the purposes of the Controller’s legitimate interests (including the commercially reasonable operation of the Website and performance of the Services) shall be retained as long as needed to fulfill such purposes.
+4.5 Contracts
+Processed data
+If we enter into or negotiate a contract with you, we may collect data in relation to the conclusion and performance of such contract, such as your name, address, e-mail address, financial information and information about your employer.
 
-Please note that we may be permitted to retain your Personal Data for a longer period of time than set forth immediately above if you have given consent to the processing of Personal Data, provided that you have not expressly withdrawn your consent.
+Purpose
+We process your Personal Data for the preparation, conclusion, performance and administration of our contractual relationships and any questions or inquiries that may arise in that relation. Such processing may further be required to comply with legal requirements and internal regulations.
 
-Once any such retention period expires, Personal Data will be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
+Legal basis
+Depending on the situation, the processing of your Personal Data is necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), necessary for compliance with a legal obligation (Art. 6 para. 1 lit. c GDPR) and/or based on our legitimate interest (Art. 6 para. 1 lit. f GDPR).
 
-Security measures
+4.6 Web 3.0 Technologies Foundation Grant Programs
+Processed data
+If you enter the application process, we may collect data in relation to such application, such as your personal details, contact information, project details, financial information and information that will be requested from you during the KYC process.
 
-We take commercially reasonable technical, backup and organizational precautions and security measures to prevent accidental or intentional manipulation, unauthorized access, disclosure, unauthorized destruction, partial or complete loss, misuse or alteration of your Personal Data. Accordingly, we store all Personal Data you provide on secure (password and firewall protected) servers. However, no method of processing, transmission or electronic storage of Personal Data is 100% secure or guaranteed. Therefore, while we strive to protect your information, we cannot guarantee its absolute security.
+Purpose
+We process your Personal Data for the purpose of evaluating your grant application, establishing your identity and performing KYC procedure, keeping track of the status of your application, the subsequent performance of the grant agreement (should your application be successful) and collecting statistical data about the program.
 
-We strongly encourage you to retain copies of all uploaded information (including your Personal Data) on your own systems.
+Legal basis
+Depending on the circumstances, the processing of your Personal Data is based on your consent (Art. 6 para. 1 lit. a GDPR), necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), necessary for compliance with legal obligations (Art. 6 para. 1 lit. c GDPR) and/or based on our legitimate interests (Art. 6 para. 1 lit. f GDPR).
 
-Yours Rights as a User
+4.7 Decentralized Nodes Program
+Processed data
+If you enter the application process, we may collect data in relation to such application, such as your personal details, contact information, matrix handle, X handle, VAT number (if the company is registered in Switzerland) and blockchain account addresses.
 
-You may exercise certain rights regarding your Personal Data processed by the Controller. Your rights depend on the applicable law and regulations of the particular jurisdiction within which you are a resident. In particular, if you are a resident of countries within the EEA or Switzerland, you have the right to do the following (note that residents of countries that are not within the EEA or Switzerland may not be entitled to some or all of the following rights):
-Withdraw your consent to the processing of your Personal Data at any time. For clarity, users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data. ***Note*** - even after you have chosen to withdraw your consent, we may be permitted to continue to process your Personal Data to the extent required or permitted by applicable law, and if we are in fact so permitted, we reserve the right to do so.
-Object to our processing of your Personal Data. Users have the right to object to the processing of their Personal Data if the processing is carried out on a legal basis other than consent (e.g. for a public interest, in the exercise of an official authority vested in the Controller or for the purpose of commercially reasonable and legitimate interests pursued by the Controller). Users may object to such processing of their Personal Data by sending a written notice to Controller (to the address or email address listed in this Privacy Policy), including details regarding the particular circumstances causing their objection to our use of their Personal Data, and rationale related thereto. Please note, however, should your Personal Data be processed for direct marketing purposes, you can object in writing to our processing of your Personal Data for those particular purposes at any time without providing any rationale or further detail.
-Access your Personal Data. Users have the right to know if the Controller is processing their Personal Data, obtain disclosure regarding certain aspects of any such processing of their Personal Data, and obtain a copy of any such Personal Data undergoing processing by us.
-Verify and seek rectification. Users have the right to verify the accuracy of their Personal Data used by us as contemplated hereunder, and ask for it to be updated or corrected. Please note that you must advise us of any changes to your Personal Data so that we can ensure that your Personal Data is accurate and up to date.
-Restrict the processing of their Personal Data. Users have the right, under certain circumstances, to restrict the processing of their Personal Data if the accuracy of such Personal Data is disputed. In this case, the Controller will not process the user’s Personal Data for any purpose other than storing it.
-Restrict the use of Personal Data during the period of time within which any pending/ongoing dispute and/or complaint is being resolved.
-Have their Personal Data deleted or otherwise removed.
-Users have the right, under certain circumstances, to cause the Controller to remove their Personal Data from Controller’s possession; provided, however, the Controller will not be required to remove any such Personal Data if the processing of that Personal Data is justified by our commercially reasonable and legitimate interests, necessary to fulfill a legal obligation, for reasons of public interest, or to assert, exercise or defend any legal claim. In any event, we will take reasonable steps to inform other controllers that are processing your Personal Data that you have requested the removal of any links to, copies or replication of any such Personal Data.
-Receive their Personal Data and have it transferred to another controller. Users have the right to receive their Personal Data in a structured, commonly used and machine readable format from the Controller and, if technically feasible and reasonably practicable, to have it transmitted to another controller. This provision is applicable provided that the Personal Data is processed by automated means and that the processing is based on the User’s consent, on a contract to which the User is a party, or on pre-contractual obligations thereof.
-Lodge a complaint. Users have the right to bring a claim before any applicable data protection authority as permitted under applicable law or regulation (the particular authority will depend on your country, state, and/or city (as applicable) of residence and the applicable data protection laws therein.
+Please note that the blockchain account addresses and on-chain identity of the selected and backup nodes will be made public once the selection has been completed.
 
-***NOTE***: Any requests to exercise User rights can be directed to the Controller through the Controller’s contact details provided in this Privacy Policy. Note that Controller is permitted to forward any such request to a third party (including, but not limited to, Web3 Foundation), in the event such third party manages any such Personal Data (as contemplated in this Privacy Policy).
+Purpose
+We process your Personal Data for the purpose of evaluating your application, establishing your identity and performing KYC procedure, keeping track of the status of your application and the subsequent performance of the agreement (should your application be successful).
 
-Controller will use reasonable best efforts to fulfill any such request by User to exercise the rights sets forth above within the timeframe required by applicable law (if applicable), unless a delay or a retention of the relevant Personal Data is permitted by applicable law, is required for another valid purpose, or is covered by a valid limitation or exemption under applicable privacy or data protection law or regulation.
+Legal basis
+Depending on the circumstances, the processing of your Personal Data is based on your consent (Art. 6 para. 1 lit. a GDPR), necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), necessary for compliance with legal obligations (Art. 6 para. 1 lit. c GDPR) and/or based on our legitimate interests manage your participation in the Decentralized Nodes Program (Art. 6 para. 1 lit. f GDPR).
 
-Any such request by a User will be free of charge, provided that we do not incur unreasonable or unexpected costs for providing you with details of your Personal Data.
+4.8 Marketing, events and newsletters
+Processed data If you sign up for our newsletter, participate in events or other activities, we may collect data such as your contact information, preferences (e.g. your areas of interest), information relating to your participation in events (including photos), as well as references provided by you.
 
-Cookies
+Purpose
+We process your Personal Data for marketing purposes and relationship management, for example to send personalized advertising, e.g. in the form of newsletters or via other communication channels for which we have contact information from you and by any other marketing means (e.g. through events, fairs, etc.), or to publish photos of events on our Website or in other media.
 
-When the User visits the Website, information can be automatically stored on the User's computer or other device. This is done in the form of so-called "cookies" or a similar file, which help Controller in various ways, for example, to get to know the preferences of visitors and Users of the Website and to improve the Website and Services. Both permanent cookies and functional, temporary session cookies may be used: permanent cookies remain on your computer after you close your session and until you delete them, while session cookies expire when you close your browser. For further detail on the use of “cookies” in connection with your use of the Website and/or Services, please review our Cookie Policy in its entirety here. And for more information about “cookies” generally, please visit: https://allaboutcookies.org/.
+Legal basis
+Depending on the situation, the processing of your Personal Data is based on your consent (Art. 6 para. 1 lit. a GDPR) and/or on our legitimate interests (Art. 6 para. 1 lit. f GDPR). In either case, you can object at any time, or refuse or withdraw your consent to be contacted for marketing purposes.
 
-Children’s Privacy
+4.9 Web3 Summit
+Processed data
+Session submissions: If you have expressed your interest in participating in the Web3 Summit as a speaker or contributing in a similar manner, we will process your data collected through the respective submission form. This may include your name, e-mail, job title, company or project name, session title, session abstract, social handles and headshot and any other information you decided to share with us;
+Newsletter: If you subscribe to our newsletter, we will collect your name and e-mail;
+Ticketing: In order to facilitate your ticket purchase, we may collect information such as your name, e-mail, job title and organization (please note that our vendors and partners may collect further information from you and process it in accordance with the terms of their own privacy policies);
+Discounted Ticket Application Form: We will process your data collected through the aforementioned form. This could be your name, e-mail, job title, company/university, country, city, how you are currently contributing to building a decentralized web, and any other information you decided to share with us;
+Event App: When you create an account with our event app powered by Bizzaboo, we may collect certain Personal Data from you, such as your name, e-mail and any additional information you choose to share with us during the account creation process or while using the app.
+Purpose
+We process your Personal Data in order to facilitate your participation in the Web3 Summit, to promote your session through various public channels, to send you information about upcoming events, and to facilitate your ticket purchases. The data collected via the event app is used to enhance your experience with the app, specifically to enable and improve your access to and use of the app’s features, ensure a smooth and personalized experience at the Web3 Summit (including event registration, communication, and networking opportunities) and to send you important updates, notifications, and other information relevant to your participation in the Web3 Summit.
 
-We do not knowingly collect any Personal Data from children under thirteen (13) years of age without parental consent. If we learn that a child under the age of thirteen (13) has provided us with Personal Data, or that such Personal Data has otherwise been inadvertently collected, we will delete it in accordance with applicable law.
+Legal basis
+Depending on the situation, the processing of your Personal Data is based on your consent (Art. 6 para. 1 lit. a GDPR), necessary for the performance of a contract (Art. 6 para. 1 lit. b GDPR), and/or based on our legitimate interests (Art. 6 para. 1 lit. f GDPR).
 
-Changes to This Privacy Policy
+5. Cookies, tracking and other technologies related to the use of our Website
+We use cookies and similar technologies on our Website that allow us to store information on your device and/or access information stored on your device. This allows us to better understand user behaviour and preferences, e.g. to provide our services in a technically error-free, secure, user-friendly and demand-oriented manner.
 
-As previously noted in this Privacy Policy, we reserve the right to make changes to this Privacy Policy at any time by updating this page. If and to the extent commercially reasonable, technically practicable, and required by applicable law, we will endeavor to provide notice of any such updates to this Privacy Policy to Users via any contact information provided by the User to Controller. In any event, we strongly encourage you to review the Website and this Privacy Policy periodically for updates.
+5.1 What are cookies?
+Cookies are small text files that are permanently or temporarily stored on your device (computer, laptop, tablet, smartphone, etc.) when you visit our Website. This enables the Website to remember specific entries and settings (e.g. language, preferences, statistics) over a certain period of time, so you don’t have to re-enter them when you use our Website.
 
-Note that, should any such changes by the Controller to this Privacy Policy materially impact the processing of Personal Data undertaken on the basis of a User’s consent, Controller will obtain consent from such User if required by applicable law.
+First party cookies are cookies set by our Website and therefore, only our Website can read them. In addition, a Website may potentially use external services which also set their own cookies. These are called third-party cookies.
+Permanent cookies remain on your device after you close your session until you delete them, while session cookies expire when you close your browser.
+5.2 Which cookies do we use and why?
+Essential cookies: These cookies are technically required for the functionality of the Website and the provision of the Website content and services.
+Statistical cookies: These cookies gather information about your technical behavior on the Website (e.g. how often the Website is visited, the security of the Website, error messages and the Website display in different browsers).
+Within and to the extent under the scope of application of the GDPR, the data processed by cookies for the aforementioned purposes is based on our legitimate interests (Art. 6 para. 1 lit. f GDPR).
 
-Access to the Privacy Policy
-The User can access, download, save or print this Privacy Policy in its current/updated version at any time under the following address polkadot.com/privacy
+5.3 Simple Analytics
+To obtain information about the user’s behavior on our Website, we use Simple Analytics. This analytics software only gives us insight about the user in general, but not about individuals, as it does not track visitors and does not store any personal identifiable information.
 
-Current Third Party Processors
-The following third party processors are currently assigned with processing activities on our behalf:
-Plausible - An open source web analytics company. Plausible’s privacy policy can be found here.
-Hubspot - Contact relationship management (CRM), marketing, sales, and customer service software. HubSpot is currently managed and controlled by the Web3 Foundation. HubSpot’s privacy policy can be found here.
-Hotjar - A digital experience insights platform that provides visual behaviour insights, in-the-moment feedback, and 1:1 interviews, all in one place. Hotjar’s privacy policy can be found here.
-Google Analytics - A web analytics service provided by Google LLC ("Google") that tracks and reports website traffic. Google's privacy policy can be found at https://policies.google.com/privacy. Google Analytics uses cookies and similar technologies to collect and analyze information about the use of our website. This information is used to evaluate visitors' use of the website and to compile statistical reports on website activity.
+5.4 How can you disable cookies?
+You may refuse the use of any cookies by selecting the appropriate settings on your browser. Most browsers allow you to delete cookies, prevent their installation or generate a warning before a cookie is installed. You can obtain further information on this subject from the relevant browser instructions. Note, however, that this may affect your experience of our Website.
 
-***NOTE*** - the updated list of these parties may be requested from the Controller at any time.
+To find out more about cookies, including how to manage, reject and delete cookies, visit www.allaboutcookies.org.
+
+5.5 Changes to the Cookie Policy
+We reserve the right to update this Cookie Policy at any time without prior notice. Any such changes will become binding on you on your first use of our Website after the changes have been made. We therefore advise you to check this Privacy Policy from time to time.
+
+6. Disclosure and transfer of Personal Data
+We may disclose your Personal Data (in compliance with the applicable legal requirements) to recipients as set out below, which may include cross-border data transfers.
+
+6.1 Categories of recipients
+We may disclose your Personal Data to the following recipients:
+
+contractual partners (to the extent the disclosure results from such contracts);
+other involved parties where relevant (e.g. if your participation or use of the Ecosystem Initiatives requires the disclosure of certain Personal Data to counterparties, legal representatives, insurance companies, etc.);
+external service providers (e.g. IT and communication services providers, marketing and event management services providers, administrative services providers, including providers of digital signature services and document destruction services, debt collection agencies, etc.);
+legal and professional advisors, including accountants and auditors;
+competent authorities (if it is necessary for your participation or use of the Ecosystem Initiatives, we are legally obliged or entitled to such disclosure or it appears necessary to protect our interests);
+the general public, if Personal Data is published on our Website or in other media (in compliance with the applicable legal requirements).
+6.2 Cross-border transfer of Personal Data
+In connection with the disclosures described above, we may transfer Personal Data to the following countries that offer adequate protection pursuant to the FADP and GDPR:
+
+EEA member states
+UK
+USA (provided they are certified; please read the Data Privacy Framework for more information)
+In certain circumstances, we may disclose Personal Data to third countries.
+
+A third country is defined as a country outside of Switzerland or the EEA, in which Swiss data protection law or the European GDPR is not directly applicable.
+To the extent such countries do not offer adequate protection, the transfer is secured by appropriate safeguards (such as Standard Contractual Clauses) or based on a statutory exemption (e.g. if the transfer is necessary for the establishment, exercise or enforcement of legal claims before a foreign authority).
+Within the scope of the GDPR, you may ask us for a copy of the relevant safeguards by contacting us as indicated in Section 1.
+6.3 Special provisions
+The following third-party processors are currently assigned with processing activities on our behalf:
+
+a) Use of our Website
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Parity Technologies Deutschland GmbH	Germany	Assist and/or follow up with you and coordinate that assistance/follow-up where you have shown interest in the Polkadot network.	Privacy policy	Adequacy decision of the Swiss Federal Council
+b) Recruitment
+
+Recruitment
+
+Name of processor Country Activity Privacy Information International Data Transfer Mechanism OBT AG Switzerland Technical support Privacy policy -
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+OBT AG	Switzerland	Technical support	Privacy policy	-
+c) Polkadot Network
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Parity Technologies Ltd. UK	UK	Assist and/or follow up with you and coordinate that assistance/follow-up where you have shown interest in the Polkadot network.	Privacy policy	Adequacy decision of the Swiss Federal Council
+d) User Support
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Google Ireland Limited	Ireland	E-mail provider	Privacy policy	Adequacy decision of the Swiss Federal Council
+Freshworks Inc.	USA	Ticketing system	Privacy notice	Adequacy decision of the Swiss Federal Council
+Grammarly, Inc.	USA	Quality of writing	Privacy policy	Adequacy decision of the Swiss Federal Council
+e) Contracts
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Docusign International (EMEA) Ltd.	Ireland	Contract management	Privacy notice	Adequacy decision of the Swiss Federal Council
+Google Ireland Limited	Ireland	Contract management	Privacy policy	Adequacy decision of the Swiss Federal Council
+f) Web 3.0 Technologies Foundation Grants Programs
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Google Ireland Limited	Ireland	E-mail provider	Privacy policy	Adequacy decision of the Swiss Federal Council
+Parity Technologies Deutschland GmbH	Germany	Grant evaluation	Privacy policy	Data processing agreement
+Parity Technologies Limited	UK	Grant evaluation	Privacy policy	Data processing agreement
+Sum and Substance	UK	KYC of grantees	Privacy notice	Data processing agreement
+g) Decentralized Nodes Program
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Google Ireland Limited	Ireland	Application form	Privacy policy	Adequacy decision of the Swiss Federal Council
+Sum and Substance	UK	KYC of grantees	Privacy notice	Data processing agreement
+h) Web3 Summit
+
+Name of processor	Country	Activity	Privacy Information	International Data Transfer Mechanism
+Google Ireland Limited	Ireland	E-mail provider	Privacy policy	Adequacy decision of the Swiss Federal Council
+Team Tito Limited	Ireland	Ticketing system	Privacy policy	Adequacy decision of the Swiss Federal Council
+HubSpot, Inc.	USA	Data storage	Privacy policy	Adequacy decision of the Swiss Federal Council
+Bizzabo Inc.	USA	Event app	Privacy policy	Adequacy decision of the Swiss Federal Council
+Please be aware that this overview may not always be up to date. If you would like to obtain the current list of third-party providers, please send an e-mail to: legal@web3.foundation.
+
+7. Retention period and deletion
+We process and store your Personal Data only for as long as our processing purposes and our legitimate interests regarding documentation require it. In addition, there may be a contractual or legal obligation to retain or document the Personal Data.
+If the Personal Data is no longer required, it will be deleted or anonymized as far as possible.
+Subject to an express written agreement, we are under no obligation to you to retain your Personal Data for a specific period of time.
+8. Data security
+We take adequate technical and organizational precautions and security measures to prevent accidental or intentional manipulation, unauthorized access, disclosure, unauthorized destruction, partial or complete loss, misuse or alteration of your Personal Data. Accordingly, we store all the data you provide on secure servers. Our security measures are continuously improved in line with technical developments.
+Access to Personal Data is limited to those employees and/or third parties assigned with processing tasks who therefore need to know about this data. These employees and/or third parties are subject to confidentiality undertakings and/or data processing agreements and must comply with applicable data protection laws.
+We use SSL encryption for reasons of security and to protect the transmission of confidential content, such as the requests you send to us as an investment operator. You can recognize an encrypted connection by the fact that the address line of the browser changes from “http://” to “https://” and by the lock symbol in your browser line. If SSL encryption is activated, third parties cannot read the data that you transmit to us.
+However, it must be stated that no technical and organizational measures can fully eliminate security risks connected with transmission of information over the internet.
+You are responsible for keeping the account information for accessing any of our networks operated confidential. You are in particular responsible for securing your private keys.
+9. Rights of Data Subjects
+9.1 General provisions
+A “Data Subject” is any natural person to whom the Person Data refers to.
+As the Data Subject, you may assert various claims against us in accordance with the applicable national and international law. To meet these claims, we will need to process your Personal Data again.
+To exercise these rights, please contact us as specified in Section 1. Exercising these rights requires that you are able to prove your identity (e.g., by a copy of identification documents when your identity is not evident otherwise or cannot be verified in another way).
+Any requests will be free of charge, provided we do not incur unexpected and inadequate costs for providing you with details of your Personal Data. If exercising certain rights incurs costs for you, we will notify you thereof in advance.
+Where possible, we will fulfill such a request within thirty (30) days (art. 25 para. 7 FADP, art. 12 para. 3 GDPR).
+9.2 Your rights
+a) Right to request information (art. 25 FADP, art. 15 GDPR) relating to you. In particular, you may request information about:
+
+the identity and the contact details of the controller;
+the processed personal data as such;
+the purposes of the data processing;
+the retention period for the personal data or, if this is not possible, the criteria for determining this period;
+the origin of your data if it has not been collected by us;
+the existence of automated decision-making, including profiling and, where appropriate, meaningful information on its details;
+the categories of recipients to whom your information has been or will be disclosed;
+the existence of a right to rectification, deletion, restriction of or to object to data processing;
+the existence of a right to lodge a complaint. → Templates are available on the website of the Federal Data Protection and Information Commissioner (German, English).
+b) You can immediately request the rectification of incorrect or incomplete Personal Data stored by us (art. 32 para. 1 FADP, art. 16 GDPR). You will be informed of the rectification, unless this is impossible or involves disproportionate effort.
+
+c) You can request the deletion of your Personal Data, unless the processing is necessary for the exercise of the right to freedom of opinion and information, for the fulfillment of a legal obligation, for reasons of public interest or to assert exercise or defend legal claims (art. 17 GDPR).
+
+d) If your personal data is processed on the basis of legitimate interests pursuant to art. 6 para. 1 lit. f GDPR, you have the right to object to the processing of your personal data if there are reasons for doing so which arise from your particular situation or if the objection is to the direct advertising. In the latter case, you have a general right to object, which is implemented by us without stating a special situation (art. 32 para. 2 lit. a FADP, art. 21 GDPR).
+
+e) You can request the restriction of the processing of your Personal Data if the accuracy of the data is disputed by you, the processing is unlawful but you refuse to delete it, we no longer need the data but you need it to assert, exercise or defend legal claims or you have lodged a complaint to the processing pursuant to art. 21 GDPR (Art. 32 para. 3 FADP, Art. 18 GDPR).
+
+f) You can receive the Personal Data that you have provided to us, in a structured, common and machine-readable format or request its transmission to another controller (art. 28 para. 2 FADP, art. 20 GDPR).
+
+g) You can withdraw your consent to us at any time. As a result, we may no longer continue the data processing based on this consent in the future (art. 7 para. 3 GDPR).
+
+Please note that we reserve the right to enforce statutory restrictions on our part, for example if we are obliged to retain or process certain data, have an overriding interest (insofar as we may invoke such interests), are bound to maintain confidentiality or need the data for asserting claims (art. 26 para. 1 and 2 FADP, art. 27 FADP).
+
+10. Regulatory authority
+If you believe that our processing of your Personal Data contradicts the applicable Data Protection Laws, you have the possibility to lodge a complaint with the appropriate data protection authority (art. 77 GDPR).
+
+The competent data protection authority in Switzerland is the Federal Data Protection and Information Commissioner:
+
+Office of the Federal Data Protection and Information Commissioner
+Feldeggweg 1
+3003 Bern
+Switzerland
+
+Tel. +41 58 462 43 95
+http://www.edoeb.admin.ch
+
+11. Modification of the Privacy Policy
+We reserve the right to change this Privacy Policy or to adapt it to new processing methods at any time without prior notice. The current version published under https://web3.foundation/privacy-and-cookies/ shall apply.
 		</p>
                 <div className="flex space-x-4">
                 </div>
