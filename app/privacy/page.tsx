@@ -78,7 +78,7 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>PRIVACY POLICY</h1>
+<h1>Billy boy</h1>
 Last Updated: July 31, 2024
 <h1>Introduction</h1>
 
