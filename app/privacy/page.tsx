@@ -77,8 +77,8 @@ export default function Home() {
           <div className="container mx-auto">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
-                <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>Privacy Policy</h1>
+                <pre>
+Privacy Policy
 Last Updated: November 25, 2024
 
 
@@ -397,7 +397,7 @@ http://www.edoeb.admin.ch
 
 11. Modification of the Privacy Policy
 We reserve the right to change this Privacy Policy or to adapt it to new processing methods at any time without prior notice. The current version published under https://web3.foundation/privacy-and-cookies/ shall apply.
-		</p>
+		</pre>
                 <div className="flex space-x-4">
                 </div>
               </div>
