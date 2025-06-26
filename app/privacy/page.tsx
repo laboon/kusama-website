@@ -78,9 +78,6 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <p className="text-white/70 mb-6 font-mono leading-relaxed">
-<h1>PRIVACY POLICY</h1>
-<p>With this privacy policy (“Privacy Policy”), Web 3.0 Technologies Foundation (“the Foundation” or “we”) informs you how we collect, use, disclose and otherwise process Personal Data (as defined under Section 3.1) in accordance with the Swiss Federal Act on Data Protection (FADP), the European General Data Protection Regulations (GDPR) and other applicable data protection legislation (“Data Protection Laws”), as applicable, when you use our website <a href="http://web3.foundation">http://web3.foundation</a> (“Website”) communicate with us, subscribe to our newsletter, interact with other ecosystem-related initiatives or projects launched in relation to the Polkadot Network and/or Kusama Network (hereinafter jointly and individually referred to as the “Ecosystem Initiatives”), or any of the other situations set out in Section 3 below.</p>
-
                 <div className="flex space-x-4">
                 </div>
               </div>
