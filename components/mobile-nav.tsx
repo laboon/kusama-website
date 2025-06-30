@@ -1,58 +1,74 @@
 "use client"
-
-import type React from "react"
-
-import { useState } from "react"
 import Link from "next/link"
+import { Github, Twitter, MessageSquare } from "lucide-react"
+import { HoverGlowButton } from "@/components/hover-glow-button"
 import { cn } from "@/lib/utils"
 
-interface HoverGlowButtonProps {
-  children: React.ReactNode
-  href: string
-  className?: string
-  variant?: "default" | "outline"
-  size?: "default" | "sm" | "lg"
-  onClick?: () => void
+interface MobileNavProps {
+  isOpen: boolean
+  setIsOpen: (isOpen: boolean) => void
 }
 
-export function HoverGlowButton({
-  children,
-  href,
-  className,
-  variant = "default",
-  size = "default",
-  onClick,
-}: HoverGlowButtonProps) {
-  const [isHovered, setIsHovered] = useState(false)
-
-  const sizeClasses = {
-    sm: "px-3 py-1 text-xs",
-    default: "px-4 py-2 text-sm",
-    lg: "px-6 py-3 text-base",
-  }
-
-  const variantClasses = {
-    default: "bg-[#ff0066] text-black hover:bg-[#ff0066]/90",
-    outline: "bg-transparent border border-[#ff0066] text-[#ff0066] hover:bg-[#ff0066]/10 hover:text-white",
+export function MobileNav({ isOpen, setIsOpen }: MobileNavProps) {
+  const handleLinkClick = () => {
+    setIsOpen(false)
   }
 
   return (
-    <div className="relative inline-block">
-      {isHovered && <div className="absolute inset-0 bg-[#ff0066] blur-lg opacity-75 rounded-md pointer-events-none" />}
-      <Link
-        href={href}
-        className={cn(
-          "relative font-mono font-medium tracking-wider transition-all duration-200 inline-flex items-center justify-center rounded-md",
-          sizeClasses[size],
-          variantClasses[variant],
-          className,
-        )}
-        onMouseEnter={() => setIsHovered(true)}
-        onMouseLeave={() => setIsHovered(false)}
-        onClick={onClick}
-      >
-        {children}
-      </Link>
+    <div
+      className={cn(
+        "fixed inset-0 z-40 flex flex-col items-center justify-center space-y-8 bg-black/90 backdrop-blur-sm transition-all duration-300 ease-in-out",
+        isOpen ? "opacity-100 pointer-events-auto" : "opacity-0 pointer-events-none",
+      )}
+      onClick={() => setIsOpen(false)}
+    >
+      <div className="flex flex-col items-center gap-y-8" onClick={(e) => e.stopPropagation()}>
+        <nav className="flex flex-col items-center space-y-6 text-lg font-mono tracking-wider">
+          <Link
+            href="/smart-contracts"
+            className="text-white/80 hover:text-[#ff0066] transition-colors"
+            onClick={handleLinkClick}
+          >
+            CONTRACTS
+          </Link>
+          <Link
+            href="/guide"
+            className="text-white/80 hover:text-[#ff0066] transition-colors"
+            onClick={handleLinkClick}
+          >
+            GUIDE
+          </Link>
+        </nav>
+
+        <HoverGlowButton href="https://kusama.subsquare.io/referenda/498" onClick={handleLinkClick}>
+          THE NEW VISION
+        </HoverGlowButton>
+
+        <div className="flex items-center space-x-6 pt-4">
+          <Link
+            href="https://x.com/kusamanetwork"
+            className="text-white/70 hover:text-[#ff0066]"
+            onClick={handleLinkClick}
+          >
+            <Twitter size={22} />
+          </Link>
+          <Link
+            href="https://forum.polkadot.network/tag/kusama"
+            className="text-white/70 hover:text-[#ff0066]"
+            onClick={handleLinkClick}
+          >
+            <MessageSquare size={22} />
+          </Link>
+          <Link
+            href="https://github.com/paritytech/polkadot-sdk"
+            className="text-white/70 hover:text-[#ff0066]"
+            onClick={handleLinkClick}
+          >
+            <Github size={22} />
+          </Link>
+        </div>
+      </div>
     </div>
   )
 }
+
