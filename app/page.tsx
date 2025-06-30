@@ -1,13 +1,30 @@
+"use client"
+
+import { useState, useEffect } from "react"
 import Image from "next/image"
 import Link from "next/link"
-import { Github, Twitter, MessageSquare } from "lucide-react"
+import { Github, Twitter, MessageSquare, X } from "lucide-react"
 import { NetworkMesh } from "@/components/network-mesh"
 import { GlitchText } from "@/components/glitch-text"
 import { Button } from "@/components/ui/button"
 import { HoverGlowButton } from "@/components/hover-glow-button"
 import { TerminalOutput } from "@/components/terminal-output"
+import { MobileNav } from "@/components/mobile-nav"
 
 export default function Home() {
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
+
+  useEffect(() => {
+    if (isMenuOpen) {
+      document.body.style.overflow = "hidden"
+    } else {
+      document.body.style.overflow = "auto"
+    }
+    return () => {
+      document.body.style.overflow = "auto"
+    }
+  }, [isMenuOpen])
+
   return (
     <div className="flex min-h-screen flex-col bg-black text-white">
       <header className="border-b border-[#ff0066]/20 backdrop-blur-sm bg-black/50 fixed w-full z-50">
@@ -24,10 +41,10 @@ export default function Home() {
           </Link>
 
           <nav className="hidden md:flex items-center space-x-8 text-sm font-mono tracking-wider">
-            <Link href="https://docs.polkadot.com/" className="text-white/80 hover:text-[#ff0066] transition-colors">
+            <Link href="/smart-contracts" className="text-white/80 hover:text-[#ff0066] transition-colors">
               DEVELOPMENT DOCS
             </Link>
-            <Link href="https://wiki.polkadot.network/kusama/kusama-getting-started/" className="text-white/80 hover:text-[#ff0066] transition-colors">
+            <Link href="/guide" className="text-white/80 hover:text-[#ff0066] transition-colors">
               KUSAMA GUIDE
             </Link>
 
@@ -48,25 +65,35 @@ export default function Home() {
             THE NEW VISION
           </HoverGlowButton>
 
-          <button className="md:hidden text-white">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              strokeWidth="2"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <line x1="3" y1="12" x2="21" y2="12"></line>
-              <line x1="3" y1="6" x2="21" y2="6"></line>
-              <line x1="3" y1="18" x2="21" y2="18"></line>
-            </svg>
+          <button
+            className="md:hidden text-white z-50"
+            onClick={() => setIsMenuOpen(!isMenuOpen)}
+            aria-label="Toggle menu"
+          >
+            {isMenuOpen ? (
+              <X size={24} />
+            ) : (
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              >
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+              </svg>
+            )}
           </button>
         </div>
       </header>
+
+      <MobileNav isOpen={isMenuOpen} setIsOpen={setIsMenuOpen} />
 
       <main className="flex-1 pt-16">
         <section className="relative h-screen flex items-center justify-center overflow-hidden">
@@ -85,7 +112,7 @@ export default function Home() {
               builders. No safety nets. No promises.
             </p>
 
-            <HoverGlowButton href="https://docs.polkadot.com/" variant="outline" size="lg">
+            <HoverGlowButton href="/learn-more" variant="outline" size="lg">
               DARE TO BUILD
             </HoverGlowButton>
           </div>
@@ -104,6 +131,13 @@ export default function Home() {
                   tech stack. No rules, just raw consensus. Build what’s next. Expect chaos.
                 </p>
                 <div className="flex space-x-4">
+                  <Button
+                    variant="outline"
+                    className="border-[#ff0066] text-[#ff0066] hover:bg-[#ff0066]/10 bg-transparent"
+                  >
+                    THE NEW VISION
+                  </Button>
+                  <Button className="bg-[#ff0066] hover:bg-[#ff0066]/80 text-black">DEPLOY CODE</Button>
                 </div>
               </div>
               <div className="relative h-64 md:h-96">
@@ -152,7 +186,7 @@ export default function Home() {
               <Link href="/privacy" className="hover:text-[#ff0066]">
                 PRIVACY POLICY
               </Link>
-              <Link href="/disclaimer" className="hover:text-[#ff0066]">
+              <Link href="/contact" className="hover:text-[#ff0066]">
                 DISCLAIMER
               </Link>
               <span>© {new Date().getFullYear()} KUSAMA</span>
