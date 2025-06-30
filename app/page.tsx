@@ -7,7 +7,7 @@ import { Github, Twitter, MessageSquare, X } from "lucide-react"
 import { NetworkMesh } from "@/components/network-mesh"
 import { GlitchText } from "@/components/glitch-text"
 import { Button } from "@/components/ui/button"
-import { HoverGlowButton } from "@/components/hover-glow-button"
+import HoverGlowButton from "@/components/hover-glow-button"
 import { TerminalOutput } from "@/components/terminal-output"
 import { MobileNav } from "@/components/mobile-nav"
 
